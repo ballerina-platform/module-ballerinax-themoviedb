@@ -5,12 +5,9 @@ name = "themoviedb"
 version = "@toml.version@"
 license = ["Apache-2.0"]
 authors = ["Ballerina"]
-keywords = [] # TODO: Add keywords
-# icon = "icon.png" # TODO: Add icon
+keywords = ["Vendor/TMDB", "Area/Marketing & Social Media", "Type/Connector", "The Movie Database"]
+icon = "icon.png"
 repository = "https://github.com/ballerina-platform/module-ballerinax-themoviedb"
 
 [build-options]
 observabilityIncluded = true
-
-[platform.java21]
-graalvmCompatible = true
