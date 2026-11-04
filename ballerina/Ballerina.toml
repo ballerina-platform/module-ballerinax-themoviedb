@@ -5,7 +5,7 @@ name = "themoviedb"
 version = "2.0.0"
 license = ["Apache-2.0"]
 authors = ["Ballerina"]
-keywords = ["Vendor/TMDB", "Area/Marketing & Social Media", "Type/Connector", "The Movie Database"]
+keywords = ["Vendor/TMDB", "Area/Marketing & Social Media", "Type/Connector", "Name/Movie DB"]
 icon = "icon.png"
 repository = "https://github.com/ballerina-platform/module-ballerinax-themoviedb"
 
