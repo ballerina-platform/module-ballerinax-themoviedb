@@ -2,13 +2,12 @@
 
 The `ballerinax/themoviedb` connector provides practical examples illustrating usage in various scenarios.
 
-[//]: # (TODO: Add examples)
-1. 
-2. 
+1. [Movie search and details](https://github.com/ballerina-platform/module-ballerinax-themoviedb/tree/main/examples/movie_search_details) - Search for a movie by title, then fetch its details, cast and streaming providers.
+2. [TV series episode guide](https://github.com/ballerina-platform/module-ballerinax-themoviedb/tree/main/examples/tv_series_episode_guide) - Search for a TV series and list the episodes of a season.
 
 ## Prerequisites
 
-[//]: # (TODO: Add prerequisites)
+Create a TMDB API read access token in your TMDB account API settings and provide it through a `Config.toml` file in the example directory.
 
 ## Running an example
 
